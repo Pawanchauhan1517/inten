@@ -1,0 +1,22 @@
+
+  VITE v7.3.1  ready in 645 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+
+PS D:\int\server> nodemon server.js
+[nodemon] 3.1.11
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] starting `node server.js`
+[dotenv@17.2.4] injecting env (3) from .env -- tip: ⚙️  enable debug logging with { debug: true } 
+Server running on port 5000
+MongoDB Connected
+
+ *  History restored 
+
+
+
+
